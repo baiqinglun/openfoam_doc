@@ -10,8 +10,6 @@ Welcome to openfoam_doc's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   doc/01 基本语法/index
-   doc/02 文件结构/index
    doc/03 工具使用/index
 
 
